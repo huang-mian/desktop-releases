@@ -1,0 +1,25 @@
+{
+    "schema": 1,
+    "platforms": {
+          "win32-x64": {
+                  "latest": "1.30096.1",
+                  "versions": {
+                            "1.30096.1": {
+                                        "kind": "exe",
+                                        "official": "https://downloads.claude.ai/releases/win32/x64/1.30096.1/Claude-194d93c2558cfbfcd2b8b7a90e02774c489d1875.exe",
+                                        "mirror": "https://github.com/huang-mian/claude-desktop-releases/releases/download/v1.30096.1/Claude-Setup-1.30096.1.exe",
+                                        "sha256": "a25593c94242a789e8f97dbc467f3be562c64845d52fa8d2b2ac91126e547fe3"
+                            }
+                  }
+          },
+          "darwin-arm64": {
+                  "latest": "1.30096.1",
+                  "versions": {
+                            "1.30096.1": {
+                                        "kind": "dmg",
+                                        "official": "https://downloads.claude.ai/releases/darwin/arm64/1.30096.1/Claude-macOS-arm64.dmg"
+                            }
+                  }
+          }
+    }
+}
