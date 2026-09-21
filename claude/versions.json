@@ -27,10 +27,10 @@
       "latest": "2.2553.1",
       "versions": {
         "2.2553.1": {
-          "kind": "exe",
-          "official": "https://downloads.claude.ai/releases/win32/arm64/2.2553.1/Claude-c38127e27202ddc1c8c187102f7798a93b1b8ede.exe",
-          "mirror": "https://github.com/huang-mian/desktop-releases/releases/download/claude-v2.2553.1/Claude-2.2553.1-win32-arm64.exe",
-          "sha256": "ccc295114fdde84c6dc6911650abcde35b34d534e97142a3b8869ca82d0a8e9a"
+          "kind": "msix",
+          "official": "https://downloads.claude.ai/releases/win32/arm64/2.2553.1/Claude-c38127e27202ddc1c8c187102f7798a93b1b8ede.msix",
+          "mirror": "https://github.com/huang-mian/desktop-releases/releases/download/claude-v2.2553.1/Claude-2.2553.1-win32-arm64.msix",
+          "sha256": "d6e709c6e5746e2a36ccca0382d5b990087b76dd4bcaeca479d43cdd5228fb90"
         }
       }
     },
@@ -38,10 +38,10 @@
       "latest": "2.2553.1",
       "versions": {
         "2.2553.1": {
-          "kind": "exe",
-          "official": "https://downloads.claude.ai/releases/win32/x64/2.2553.1/Claude-c38127e27202ddc1c8c187102f7798a93b1b8ede.exe",
-          "mirror": "https://github.com/huang-mian/desktop-releases/releases/download/claude-v2.2553.1/Claude-2.2553.1-win32-x64.exe",
-          "sha256": "99dcb409f3cf381f1e8d2ded3c7ecf685d9981aabcb9d52ebcae565574a00d4a"
+          "kind": "msix",
+          "official": "https://downloads.claude.ai/releases/win32/x64/2.2553.1/Claude-c38127e27202ddc1c8c187102f7798a93b1b8ede.msix",
+          "mirror": "https://github.com/huang-mian/desktop-releases/releases/download/claude-v2.2553.1/Claude-2.2553.1-win32-x64.msix",
+          "sha256": "fb2b8b470ef95d12afbcdcc1e0491599404a86f08e5fc460796f833827b7a447"
         }
       }
     }
