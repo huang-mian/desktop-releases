@@ -1,32 +1,34 @@
 {
   "schema": 1,
   "platforms": {
+    "darwin-arm64": {
+      "latest": "26.915.31945",
+      "versions": {
+        "26.915.31945": {
+          "kind": "dmg",
+          "official": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-26.915.31945-x64.dmg",
+          "officialRolling": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-latest-x64.dmg",
+          "sha256": "a89bd551b471af852859d1b835f27279dbe823f4c8ab9c91bb7c31cee8a3fa73"
+        }
+      }
+    },
+    "darwin-x64": {
+      "latest": "26.915.31945",
+      "versions": {
+        "26.915.31945": {
+          "kind": "dmg",
+          "official": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-26.915.31945-x64.dmg",
+          "officialRolling": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-latest-x64.dmg",
+          "sha256": "a89bd551b471af852859d1b835f27279dbe823f4c8ab9c91bb7c31cee8a3fa73"
+        }
+      }
+    },
     "win32-x64": {
       "latest": "latest",
       "versions": {
         "latest": {
           "kind": "msstore",
           "productId": "9PLM9XGG6VKS"
-        }
-      }
-    },
-    "darwin-arm64": {
-      "latest": "latest",
-      "versions": {
-        "latest": {
-          "kind": "dmg",
-          "official": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-latest-x64.dmg",
-          "sha256": "bd8990ce3a7b28052e6b4f5778c17cfea41c24e2b99393984a6bca499b9b8762"
-        }
-      }
-    },
-    "darwin-x64": {
-      "latest": "latest",
-      "versions": {
-        "latest": {
-          "kind": "dmg",
-          "official": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-latest-x64.dmg",
-          "sha256": "bd8990ce3a7b28052e6b4f5778c17cfea41c24e2b99393984a6bca499b9b8762"
         }
       }
     }
