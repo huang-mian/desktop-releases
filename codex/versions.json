@@ -6,9 +6,8 @@
       "versions": {
         "26.915.31945": {
           "kind": "dmg",
-          "official": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-26.915.31945-x64.dmg",
-          "officialRolling": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-latest-x64.dmg",
-          "sha256": "a89bd551b471af852859d1b835f27279dbe823f4c8ab9c91bb7c31cee8a3fa73"
+          "official": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-26.915.31945-arm64.dmg",
+          "sha256": "f4bc8e95f921f45c3f1d1891ead21eafdbe8e40612eb34cf0be173988c1996dd"
         }
       }
     },
@@ -20,6 +19,15 @@
           "official": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-26.915.31945-x64.dmg",
           "officialRolling": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-latest-x64.dmg",
           "sha256": "a89bd551b471af852859d1b835f27279dbe823f4c8ab9c91bb7c31cee8a3fa73"
+        }
+      }
+    },
+    "win32-arm64": {
+      "latest": "latest",
+      "versions": {
+        "latest": {
+          "kind": "msstore",
+          "productId": "9PLM9XGG6VKS"
         }
       }
     },
